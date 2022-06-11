@@ -7,6 +7,9 @@
 
 注：下载时请进入Releases中下载FoxTown_日期.zip，不是Source Code、不是Source Code、不是Source Code
 
+![](demo1.png)
+
+![](demo2.png)
 # 介绍
 1.系统默认的漏洞介绍及修复建议仅供参考
 
