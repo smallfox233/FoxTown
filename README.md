@@ -9,6 +9,8 @@
 
 注：下载时请进入Releases中下载FoxTown_版本.zip
 
+示例图：
+
 ![](demo1.png)
 
 ![](demo2.png)
@@ -18,3 +20,5 @@
 ![](demo4.png)
 
 ![](demo5.png)
+
+![](demo6.png)
